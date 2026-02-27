@@ -45,7 +45,7 @@
 
 ## Установка и использование
 
-1. Скачайте готовый файл `B4DoS Crypt Tool.exe` из [Releases](https://github.com/ваш-username/b4dos-crypt-tool/releases)
+1. Скачайте готовый файл `B4DoS Crypt Tool.exe` из [Releases](https://github.com/V4DoS/Crypt)
 2. Запустите приложение
 3. Выберите действие:
    - «Зашифровать папку» → укажите публичный ключ (.pem)
